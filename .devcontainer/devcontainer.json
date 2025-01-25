@@ -16,7 +16,10 @@
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
-			"settings" : {"editor.rulers": [72, 79]},
+			"settings" : {
+				"editor.trimAutoWhitespace": true,
+				"files.autoSave": "off"
+			},
 			"extensions": [
 				"ms-vscode-remote.remote-wsl",
 				"eamodio.gitlens",
