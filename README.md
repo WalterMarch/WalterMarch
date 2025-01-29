@@ -21,6 +21,7 @@ While most of my public work will be in the [Playground Repositories](#playgroun
 I've enjoyed programming since I was seven years old and I enjoy playing around with different languages. To facilitate this, I've created various "playground" repositories where I plan to post various programs I've written. I have also found I enjoy it more and learn more when I hack away at a project rather than plowing through a book (though I often at least try to plow through programming books).
 
 * [C#](https://github.com/WalterMarch/wm-csharp-playground)
+* [Design (for projects in other playgrounds)](https://github.com/WalterMarch/wm-adesign-playground)
 * [Java](https://github.com/WalterMarch/wm-java-playground)
 * [JavaScript](https://github.com/WalterMarch/wm-javascript-playground)
 * [Kotlin](https://github.com/WalterMarch/wm-kotlin-playground)
