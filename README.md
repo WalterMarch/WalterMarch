@@ -23,7 +23,7 @@ I've enjoyed programming since I was seven years old and I enjoy playing around 
 * [C#](https://github.com/WalterMarch/wm-csharp-playground)
 * [Java](https://github.com/WalterMarch/wm-java-playground)
 * [JavaScript](https://github.com/WalterMarch/wm-javascript-playground)
-* [Kotlin](https://github.com/WalterMarch/wm-pascal-playground)
+* [Kotlin](https://github.com/WalterMarch/wm-kotlin-playground)
 * [Pascal](https://github.com/WalterMarch/wm-pascal-playground)
 * [Perl](https://github.com/WalterMarch/wm-perl-playground)
 * [Python](https://github.com/WalterMarch/wm-python-playground)
