@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile. :octocat:
 
 I have been a Software Engineer at [Accolade](https://www.accolade.com/) since August 2021. That's when I finally got up the courage to fulfill my dream of being a full-time programmer (at least, that's what we were called when I first started doing it as an amateur).
 
