@@ -10,6 +10,18 @@ Welcome to my GitHub profile. :octocat:
 
 I have been a Software Engineer at [Accolade](https://www.accolade.com/) since August 2021. That's when I finally got up the courage to fulfill my dream of being a full-time programmer (at least, that's what we were called when I first started doing it as an amateur).
 
+### Update Mar 17, 2025
+
+Years ago I read (part of) [The Mind Illuminated](https://www.simonandschuster.com/books/The-Mind-Illuminated/John-Yates/9781501156984) by John Yates, Matthew Immergut, and Jeremy Graves. The following quote has stuck with me ever since.
+
+```text
+The secret to progress is working with the specific obstacles and goals appropriate to your current skill level.
+```
+
+What this means to me, in the context of my person repositories, is that I'm going to implement simpler things the the programming languages I am not familiar with and leave the harder stuff for the ones I am familiar with.
+
+My goal with these public repositories is to have fun. Progressing is fun and feeling like you can do a thing is also fun. Time to have fun.
+
 ## FYI Repositories
 
 While most of my public work will be in the [Playground Repositories](#playground-repositories), there will be some work that I feel might be more useful in its own repository. These will mainly be informational; thus my grouping them under *FYI Repositories*.
