@@ -6,7 +6,7 @@
 	// https://stackoverflow.com/a/67803226/21655737
     	"mounts": [
 		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/root/.ssh,type=bind"
-],
+	],
 	"postCreateCommand": "${containerWorkspaceFolder}/.devcontainer/post-create.sh ${containerWorkspaceFolder}",	
 	// Configure tool-specific properties.
 	"customizations": {
