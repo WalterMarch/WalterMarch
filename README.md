@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile. :octocat:
 
-I have been a Software Engineer at [Accolade](https://www.accolade.com/) since August 2021. That's when I finally got up the courage to fulfill my dream of being a full-time programmer (at least, that's what we were called when I first started doing it as an amateur).
+I have been a Software Engineer at [Accolade](https://www.accolade.com/) since August 2021. That's when I finally got up the courage to fulfill my dream of being a full-time programmer (at least, that's what we were called when I first started doing it as an amateur and as a responsibility for various jobs).
 
 ### Update Mar 17, 2025
 
@@ -20,7 +20,7 @@ The secret to progress is working with the specific obstacles and goals appropri
 
 What this means to me, in the context of my person repositories, is that I'm going to implement simpler things the the programming languages I am not familiar with and leave the harder stuff for the ones I am familiar with.
 
-My goal with these public repositories is to have fun. Progressing is fun and feeling like you can do a thing is also fun. Time to have fun.
+My goal with these public repositories is to have fun. Progressing is fun; feeling like you can do a thing is also fun. Time to have fun.
 
 ## FYI Repositories
 
